@@ -1,8 +1,8 @@
 Hi,I'm Abhay kumar.
 I’m interested in Web Development,Data Structure and algorithm, Competitive Programming and UI/UX design.
 I’m currently learning - DSA and CP.
- I’m looking to collaborate on any project Related to Web design and HTML,CSSand JS
-How to reach me DM me - 9507557433
+ I’m looking to collaborate on any project Related to Web design and HTML,CSSand JS.
+ DM me @ 9507557433
 
 
 <!---
