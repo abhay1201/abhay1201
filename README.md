@@ -1,4 +1,4 @@
-Hi,I'm Abhay kumar- 👋 Hi, I’m @abhay1201
+Hi,I'm Abhay kumar
 I’m interested in Web Development,Data Structure and algorithm, Competitive Programming and UI/UX design.
 I’m currently learning - DSA and CP.
  I’m looking to collaborate on any project Related to Web design and HTML,CSSand JS
