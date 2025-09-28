@@ -1,9 +1,6 @@
-Hi,I'm Abhay kumar.
-I’m interested in Web Development,Data Structure and algorithm, Competitive Programming and UI/UX design.
-I’m currently learning - DSA and CP.
- I’m looking to collaborate on any project Related to Web design and HTML,CSSand JS.
- DM me @ 9507557433
-
+I'm Abhay
+Hello folks! I am an undergraduate student at IIT ROORKEE, pursuing my B.Tech degree in Electrical Engineering Department . I belong to West Champaran, Bihar. My hobbies include photography and videography, and playing cricket.
+I am keenly interested in Analytical Problem solving,Data Structures and Algorithms, competitive programming, AI/ML,Technology advancement. I like learning new skills
 
 <!---
 abhay1201/abhay1201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
