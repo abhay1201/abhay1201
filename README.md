@@ -2,10 +2,9 @@
 
 B.Tech Electrical Engineering @ IIT Roorkee | AI/ML • RAG • Full Stack
 
-🔭 Currently working on: EV Charging Management System (HIL Simulation)
-🧠 Interests: Generative AI, LLMs, RAG Architecture, DSA
+🧠 Interests:SDE, Generative AI, LLMs, RAG Architecture, DSA
 💼 Ex-Technology Consultant Intern @ PwC India (AI/GenAI)
-📫 Reach me: abhayk@ee.iitr.ac.in
+📫 Reach me: abhay_k@ee.iitr.ac.in
 
 ---
 
