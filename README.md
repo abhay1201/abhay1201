@@ -3,7 +3,9 @@
 B.Tech Electrical Engineering @ IIT Roorkee | AI/ML • RAG • Generative ai
 
 🧠 Interests: Generative AI, LLMs, RAG Architecture, DSA
+
 💼 Ex-Technology Consultant Intern @ PwC India (AI/GenAI)
+
 📫 Reach me: abhay_k@ee.iitr.ac.in
 
 ---
