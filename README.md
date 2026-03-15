@@ -46,5 +46,4 @@ B.Tech Electrical Engineering @ IIT Roorkee | AI/ML • RAG • Generative ai
 ---
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-abhayaditya327-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/abhayaditya327/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%20%7C%201458-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhay-kumar-968155218/)
