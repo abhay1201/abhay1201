@@ -2,7 +2,7 @@
 
 B.Tech Electrical Engineering @ IIT Roorkee | AI/ML • RAG • Generative ai
 
-🧠 Interests: Generative AI, LLMs, RAG Architecture, DSA
+🧠 Interests: Generative AI, LLMs, RAG Architecture, DSA ,NLP
 
 💼 Ex-Technology Consultant Intern @ PwC India (AI/GenAI)
 
