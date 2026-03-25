@@ -1,10 +1,6 @@
 # Hi, I'm Abhay Kumar 👋
 
-B.Tech Electrical Engineering @ IIT Roorkee | AI/ML • RAG • Generative ai
-
-🧠 Interests: Generative AI, LLMs, RAG Architecture, DSA ,NLP
-
-💼 Ex-Technology Consultant Intern @ PwC India (AI/GenAI)
+I am an undergraduate student at IIT Roorkee, pursuing my B.Tech degree in Electrical Engineering. Driven by a passion for data science, analytics, and machine learning. With a strong foundation in data structures and algorithms (DSA), SQL, and Python, I possess in-depth knowledge of machine learning, deep learning, and statistics. My expertise has been honed through a internship at PwC india and hands-on experience with diverse projects, including those in large language models (LLMs), generative AI, machine learning (ML), deep learning (DL), and natural language processing (NLP). I am actively seeking full-time opportunities to contribute my skills and insights to impactful, data-driven challenges.
 
 📫 Reach me: abhay_k@ee.iitr.ac.in
 
