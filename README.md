@@ -1,5 +1,4 @@
 <div align="center">
-
 ```
  █████╗ ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗
 ██╔══██╗██╔══██╗██║  ██║██╔══██╗╚██╗ ██╔╝
@@ -7,10 +6,10 @@
 ██╔══██║██╔══██╗██╔══██║██╔══██║  ╚██╔╝  
 ██║  ██║██████╔╝██║  ██║██║  ██║   ██║   
 ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  
-         K U M A R
+        K U M A R
 ```
 
-### `B.Tech EE · IIT Roorkee · Data Science & ML`
+### `B.Tech EE · IIT Roorkee · GenAI/AI & ML`
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abhay--iitr.netlify.app-0f0f0f?style=for-the-badge)](https://abhay-iitr.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-kumar-968155218/)
@@ -23,15 +22,15 @@
 
 ## 👨‍💻 About Me
 
-I'm an Electrical Engineering undergrad at **IIT Roorkee** with a deep focus on **machine learning, deep learning, and data science**. I've translated that passion into real-world impact through an internship at **PwC India** and a portfolio of projects spanning **LLMs, Generative AI, NLP, and classical ML**.
+I'm an Electrical Engineering undergrad at **IIT Roorkee** with a deep focus on **GenAI/AI,machine learning, deep learning, and data science**. I've translated that passion into real-world impact through an internship at **PwC India** and a portfolio of projects spanning **LLMs, Generative AI, NLP, and classical ML**.
 
-I'm currently **open to full-time roles** in Data Science, ML Engineering, and AI — where I can build systems that matter.
+I'm currently **open to full-time roles** in Data Science, ML Engineering, and GenAI/AI — where I can build systems that matter.
 
 ```python
 abhay = {
     "education":   "B.Tech EE · IIT Roorkee",
     "interests":   ["LLMs", "Generative AI", "NLP", "Deep Learning", "Data Analytics"],
-    "experience":  ["PwC India (Intern)"],
+    "experience":  ["PwC India (GenAI/AI Intern)"],
     "looking_for": "Full-time | Data Science · ML Engineering · AI",
     "contact":     "abhay_k@ee.iitr.ac.in"
 }
@@ -83,19 +82,17 @@ abhay = {
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abhay-iitr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-iitr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+ 
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=abhay1201&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay1201&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=abhay-iitr&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=abhay1201&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -103,20 +100,19 @@ abhay = {
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 **[LLM / RAG App]** | *Add your best LLM/GenAI project here* | LangChain · ChromaDB · HuggingFace |
-| 📊 **[ML Project]** | *Add a strong ML/DL project here* | PyTorch · Scikit-learn · Pandas |
-| 🌐 **[NLP Project]** | *Add an NLP project here* | Transformers · NLTK · Flask |
-| 📈 **[Data Analytics]** | *PwC-inspired or analytics project* | SQL · Pandas · Matplotlib |
+| 🤖 **[LLM / RAG App]** | *[RAG Project Demo for PwC](https://github.com/abhay1201/RAG_CHATBOT)* | LangChain · ChromaDB · HuggingFace |
+| 📊 **[ML Project]** | *[Stock Sentiment Analysis Using Machine Learning](https://github.com/abhay1201/Stock-sentiment-analysis-using-Machine-Learning)* | PyTorch · Scikit-learn · Pandas |
+| 🌐 **[NLP Project]** | *[pdf-QnA-AI](https://github.com/abhay1201/pdf-QnA-AI)* | Transformers · NLTK · Flask |
 
 ---
 
 ## 🏆 Highlights
 
 - 🎓 **B.Tech, Electrical Engineering** — IIT Roorkee
-- 💼 **Intern @ PwC India** — Data & Analytics domain
+- 💼 **Intern @ PwC India** — Technology Consultant(GenAI/AI) Intern
 - 🧠 Built end-to-end projects in **LLMs, GenAI, NLP, and Deep Learning**
 - 💡 Strong DSA foundation — active on **LeetCode**
-- 🔍 **Open to full-time opportunities** in Data Science / ML Engineering
+- 🔍 **Open to full-time opportunities** in SOftware Engineering/Data Science / ML Engineering
 
 ---
 
