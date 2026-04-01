@@ -80,21 +80,6 @@ abhay = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
- 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abhay1201&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay1201&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=abhay1201&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ## 🚀 Featured Projects
 
 > **Pinned repos tell your story — make sure these are pinned on your profile!**
