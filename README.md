@@ -1,4 +1,7 @@
-### `IIT Roorkee·Abhay kumar  · GenAI/AI & ML`
+<div align="center">
+  ### `Abhay kumar · IIT Roorkee  · GenAI/AI & ML`
+</div>
+
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abhay--iitr.netlify.app-0f0f0f?style=for-the-badge)](https://abhay-iitr.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-kumar-968155218/)
