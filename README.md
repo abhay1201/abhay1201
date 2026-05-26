@@ -1,5 +1,7 @@
 <div align="center">
-  ### `Abhay kumar · IIT Roorkee  · GenAI/AI & ML`
+  
+  ###  `Abhay kumar · IIT Roorkee  · GenAI/AI & ML`
+  
 </div>
 
 
