@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an Electrical Engineering undergrad at **IIT Roorkee** with a deep focus on **GenAI/AI,machine learning, deep learning, and data science**. I've translated that passion into real-world impact through an internship at **PwC India** and a portfolio of projects spanning **LLMs, Generative AI, NLP, and classical ML**.
+I'm an Electrical Engineering undergrad at **IIT Roorkee** with a deep focus on **GenAI/AI,machine learning, deep learning, and data science**. I've translated that passion into real-world impact through an internship at **PwC India** and a portfolio of projects spanning **MLOps & AI Architect building scalable RAG pipelines & intelligent systems. 🧠⚡**.
 
 I'm currently **open to full-time roles** in Data Science, ML Engineering, and GenAI/AI — where I can build systems that matter.
 
